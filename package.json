@@ -1,0 +1,15 @@
+{
+    "name": "com.behaviourtree.package",
+    "displayName": "Behaviour Tree Editor Package",
+    "version": "0.0.1",
+    "description": "Editor to make Beahviour Tree",
+    "unity": "2022.3",
+    "author": {
+        "name": "Florian Maillard",
+        "email": "florian.maillard@viacesi.fr"
+    },
+    "dependencies": {
+        
+    },
+    "type": "tool"
+}
